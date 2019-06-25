@@ -1,0 +1,24 @@
+{
+  "name": "@y-fe/nu-grid-react-native",
+  "version": "0.0.4",
+  "description": "NU 「 no-ui 」 组件库系统 nu-system，Grid 组件 React native 实现",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yued-fe/nu-react-native.git"
+  },
+  "keywords": [
+    "grid",
+    "nu-systeam",
+    ""
+  ],
+  "peerDependencies": {
+    "react": "16.5.0",
+    "react-native": "^0.57.7"
+  },
+  "author": "yfe-team",
+  "license": "MIT"
+}
