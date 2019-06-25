@@ -6,19 +6,19 @@
   "directories": {
     "lib": "lib"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:yued-fe/nu-react-native.git"
+  "repository": "git@github.com:nu-system/grid-react-native.git",
+  "author": "yfe-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nu-system/grid-react-native/issues"
   },
+  "homepage": "https://nu-system.github.io/react-native/grid/",
   "keywords": [
     "grid",
-    "nu-systeam",
-    ""
+    "nu-systeam"
   ],
   "peerDependencies": {
     "react": "16.5.0",
     "react-native": "^0.57.7"
-  },
-  "author": "yfe-team",
-  "license": "MIT"
+  }
 }
