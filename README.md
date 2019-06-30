@@ -1,27 +1,23 @@
-# nu-grid-react-native
+# nu-react-native-grid
 
 [![npm package][npm-badge]][npm]
 
 [npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/@y-fe/nu-grid-react-native
+[npm]: https://www.npmjs.org/package/@_nu/react-native-grid
 
 这是 NU 「 no-ui 」 组件库系统 nu-system，Grid 组件 React-native 实现。
 
 ## 怎么用？
 
 ```
-npm i @y-fe/nu-grid-react-native
-```
-
-```
-yarn add @y-fe/nu-grid-react-native
+yarn add @_nu/react-native-grid
 ```
 
 ### 二次封装
 
 ```JSX
 import React from 'react';
-import Grid from '@y-fe/nu-grid-react-native';
+import Grid from '@_nu/react-native-grid';
 
 const {Row, Col, Wrap} = new Grid({
     gridNum: 6,            // 列数
